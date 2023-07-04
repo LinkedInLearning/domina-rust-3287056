@@ -13,6 +13,8 @@ En este repositorio encontrarás un listado de carpetas. Cada carpeta correspond
 
 Aunque los entornos de desarrollo utilizados en los videos son [Visual Studio Code](https://code.visualstudio.com/) y [Rust Playground](https://play.rust-lang.org/), debes saber que este curso está integrado con GitHub Codespaces, un entorno de desarrollo instantáneo alojado en la nube que ofrece toda la funcionalidad de tu IDE favorito sin tener que configurar una máquina local. Con Codespaces puedes practicar en cualquier lugar y desde cualquier dispositivo, de modo que no necesitas instalar ninguna otra herramienta. Aprende a dar los primeros pasos con el vídeo “Cómo usar GitHub Codespaces con este curso”.
 
+Finalmente, debes saber que cada lección incluye una función principal _main_, que te permitirá trabajar con cada ejercicio en su estado inicial (a) y en su estado final (b) de manera independiente. A la hora de compilar, asegúrate de hacer uso de una única función _main_ para evitar conflictos en el proceso de compilación.
+
 ### Docente
 
 **Eliezer López**
