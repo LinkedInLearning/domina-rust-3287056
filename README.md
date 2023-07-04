@@ -8,13 +8,10 @@ Consulta el archivo Readme en la rama main para obtener instrucciones e informac
 Rust tiene escondidos muchos más secretos de los que piensas. En este curso descubrirás algunas partes del lenguaje menos conocidas, así como diversas técnicas y/o herramientas que te ayudarán a elevar tus posibilidades de desarrollo y mejorar tus procesos con Rust. Al terminar este curso, habrás aprendido una gran cantidad de trucos que harán tus tareas de programación con Rust en el día a día más simples y rápidas, aumentando la productividad de tus flujos de desarrollo con este lenguaje. ¿Empezamos?
 
 ## Instrucciones
-Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
 
-## Ramas
-Las ramas están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura es Capítulo#_Vídeo#. Por ejemplo, la rama denominada `02_03` corresponde al segundo capítulo y al tercer vídeo de ese capítulo. Algunas ramas tendrán un estado inicial y otro final. Están marcadas con las letras i («inicio») y f («fin»). La branch i tiene el mismo código que al principio del vídeo. La branch f tiene el mismo código que al final del vídeo. La rama master tiene el estado final del código que aparece en el curso.
+En este repositorio encontrarás un listado de carpetas. Cada carpeta corresponde con una lección dentro del curso, y en su interior encontrarás dos archivos fuente: uno que contiene el código utilizado en el video en su estado inicial (a), y otro que contiene el código en su estado final (b).
 
-## Instalación
-Este curso está integrado con GitHub Codespaces, un entorno de desarrollo instantáneo alojado en la nube que ofrece toda la funcionalidad de tu IDE favorito sin tener que configurar una máquina local. Con Codespaces puedes practicar en cualquier lugar y desde cualquier dispositivo, de modo que no necesitas instalar ninguna otra herramienta. Aprende a dar los primeros pasos con el vídeo “Cómo usar GitHub Codespaces con este curso”.   
+Aunque los entornos de desarrollo utilizados en los videos son [Visual Studio Code](https://code.visualstudio.com/) y [Rust Playground](https://play.rust-lang.org/), debes saber que este curso está integrado con GitHub Codespaces, un entorno de desarrollo instantáneo alojado en la nube que ofrece toda la funcionalidad de tu IDE favorito sin tener que configurar una máquina local. Con Codespaces puedes practicar en cualquier lugar y desde cualquier dispositivo, de modo que no necesitas instalar ninguna otra herramienta. Aprende a dar los primeros pasos con el vídeo “Cómo usar GitHub Codespaces con este curso”.
 
 ### Docente
 
