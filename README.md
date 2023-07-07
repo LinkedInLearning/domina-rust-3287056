@@ -1,7 +1,7 @@
 # Domina Rust
-Este es el repositorio del curso de LinkedIn Learning `[Domina Rust]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Domina Rust`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url] 
+![image](https://github.com/LinkedInLearning/domina-rust-3287056/assets/71371373/4228f989-d650-4f2a-b949-07425cfdb3ac) 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
@@ -22,7 +22,7 @@ Finalmente, debes saber que cada lección incluye una función principal _main_,
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/eliezer-lopez).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+[lil-course-url]: https://www.linkedin.com/learning/domina-rust-22622992/optimiza-tu-manera-de-desarrollar-con-rust
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
 
 
